@@ -10,5 +10,5 @@ Quizify is a command-line quiz application where users answer multiple-choice qu
 - **Leaderboard**: Displays top scorers for added competition.
 
 ## Live Demo
-https://github.com/user-attachments/assets/859a0146-9736-4056-a05e-bdab880e2b72
+https://github.com/user-attachments/assets/a9012198-a2d6-4160-be19-17da0db9208b
 
